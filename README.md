@@ -1,4 +1,4 @@
-<img width="1125" height="370" alt="Adsız Tasarım 297x97 mm" src="https://github.com/user-attachments/assets/2084cf28-3eea-49cc-98df-cc00fef896b2" />
+<img width="1125" height="370" alt="Adsız Tasarım 297x97 mm" src="https://r.resimlink.com/1DvJ6TzK.png" />
 
 <h1 align="center">Hi 🌸 , I'm Eda Yuşan</h1>
 <h3 align="center">Backend Developer | Data Science & AI Enthusiast</h3>
