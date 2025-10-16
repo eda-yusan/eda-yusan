@@ -4,7 +4,7 @@
 <h3 align="center"> Data Science | Backend Developer & AI Enthusiast</h3>
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/1c465c3ff5cce16f86a2b4a8db235671b781df5bdc087468490f8d61579e02b5/68747470733a2f2f626c6f672e63617365626f6f6b2e6e65742f68756266732f35383837392d6d756c74697461736b696e672d776f6d616e2e676966">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/eda-yu%C5%9Fan-432768216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eda-yusan" height="30" width="40" /></a>
 <a href="https://kaggle.com/edayusan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="edayusan" height="30" width="40" /></a>
